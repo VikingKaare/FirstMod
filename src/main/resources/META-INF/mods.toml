@@ -1,0 +1,40 @@
+
+modLoader="javafml"
+
+loaderVersion="[31,)"
+
+[[mods]]
+
+modId="firstmod"
+
+version="${file.jarVersion}"
+
+displayName="Viking's Mod"
+
+logoFile="examplemod.png"
+
+credits="Viking"
+
+authors="Viking" #optional
+
+description='No description yet :('
+
+
+[[dependencies.firstmod]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[31,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+# Here's another dependency
+[[dependencies.firstmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

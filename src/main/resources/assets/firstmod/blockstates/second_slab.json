@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "firstmod:block/second_slab" },
+    "type=top": { "model": "firstmod:block/second_slab_top" },
+    "type=double": { "model": "firstmod:block/second_block" }
+  }
+}
