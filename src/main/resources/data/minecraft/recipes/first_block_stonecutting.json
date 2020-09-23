@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "firstmod:first_block"
+  },
+  "result": "firstmod:first_item",
+  "count": 8
+
+}

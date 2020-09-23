@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "firstmod:first_item",
+    "firstmod:second_item",
+    "minecraft:apple"
+  ]
+
+}

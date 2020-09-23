@@ -1,0 +1,7 @@
+{
+  "replace": "false",
+  "values": [
+    "firstmod:first_wall",
+    "firstmod:second_wall"
+  ]
+}

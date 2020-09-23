@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "bbb",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item":"firstmod:second_item"
+    },
+    "b": {
+      "item": "firstmod:first_item"
+    }
+  },
+  "result": {
+    "item": "firstmod:second_block",
+    "count": 4
+  }
+}

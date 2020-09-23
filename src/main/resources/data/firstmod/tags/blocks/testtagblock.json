@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "firstmod:first_block",
+        "minecraft:cactus",
+        "minecraft:sand"
+    ]
+
+}

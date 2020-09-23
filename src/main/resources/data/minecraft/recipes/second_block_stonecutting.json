@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "firstmod:second_block"
+  },
+  "result": "firstmod:second_item",
+  "count": 8
+
+}

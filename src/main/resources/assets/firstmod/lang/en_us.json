@@ -1,10 +1,22 @@
 {
   "item.firstmod.first_item": "First Item",
   "item.firstmod.second_item": "Second Item",
+
   "block.firstmod.first_block": "First Block",
   "block.firstmod.second_block": "Second Block",
   "block.firstmod.first_slab": "First Slab",
   "block.firstmod.second_slab": "Second Slab",
   "block.firstmod.first_stairs": "First Stair",
-  "block.firstmod.second_stairs": "Second Stair"
+  "block.firstmod.second_stairs": "Second Stair",
+  "block.firstmod.first_wall": "First Wall",
+  "block.firstmod.second_wall": "Second Wall",
+
+  "block.firstmod.oil": "Oil",
+  "item.firstmod.oil_bucket": "Oil Bucket",
+
+  "item.firstmod.first_sword": "First Sword",
+  "item.firstmod.first_pickaxe": "First Pickaxe",
+  "item.firstmod.first_axe": "First Axe",
+  "item.firstmod.first_shovel": "First Shovel",
+  "item.firstmod.first_hoe": "First Hoe"
 }
